@@ -13,4 +13,6 @@ public class searchMatrix {
         }
         return false;
     }
+
+    // time: O(m + n), space: O(1)
 }
