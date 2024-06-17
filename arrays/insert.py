@@ -17,3 +17,5 @@ class Solution:
             
         res.append(newInterval)
         return res
+    
+# T O(n) S O(n)
