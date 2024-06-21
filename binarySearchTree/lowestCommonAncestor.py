@@ -18,3 +18,5 @@ class Solution:
                 continue
             else:
                 return temp
+
+# T O(n) S O(1)
